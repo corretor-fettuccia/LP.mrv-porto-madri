@@ -1,0 +1,28 @@
+# Porto Madrid
+
+> Porto Madrid, da MRV, no Parque dos Anjos em Gravataí/RS: apartamentos de 2 quartos prontos para morar, todos com vaga. Simule pelo Minha Casa Minha Vida.
+
+## Informações principais
+
+- Localização: Região do Parque dos Anjos, Gravataí, RS
+- Tipologia declarada: ApartmentComplex
+- Página oficial: [Porto Madrid](https://mrv-porto-madri.mcmv-rs.com.br/)
+
+## Conteúdo da página
+
+- Seu 2 quartos pronto para morar em Gravataí, com vaga de garagem.
+- MRV Seu primeiro apartamento !
+- SALA
+- Entenda como comprar, sem letras miúdas.
+- Tudo ao redor, perto do Centro.
+- As informações que ajudam você a decidir.
+- Tudo o que você precisa saber sobre o Porto Madrid.
+- Descubra se o Porto Madrid cabe no seu bolso.
+
+## Conteúdo detalhado
+
+- [Descrição estruturada da página](llms-full.txt)
+
+## Condições comerciais e atendimento
+
+Valores, disponibilidade, condições financeiras e prazos devem ser confirmados com o responsável. Formulários de contato e agendamento exigem ação e consentimento do visitante.
